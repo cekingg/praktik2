@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="form_biodata">Form Biodata</string>
+    <string name="nama">Nama</string>
+    <string name="alamat">Alamat</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">Password</string>
+    <string name="simpan">Simpan</string>
+</resources>
